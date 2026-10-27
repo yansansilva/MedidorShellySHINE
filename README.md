@@ -1,4 +1,1 @@
 # MedidorShellySHINE
-# MedidorShellySHINE
-# MedidorShellySHINE
-# MedidorShellySHINE
