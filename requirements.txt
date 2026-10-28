@@ -1,6 +1,6 @@
 altair<5
 openpyxl==3.0.10
-pandas==3.1.0
+pandas==2.2.3
 pip==22.1.2
 streamlit>=1.18.0
 xlsxwriter==3.0.3
